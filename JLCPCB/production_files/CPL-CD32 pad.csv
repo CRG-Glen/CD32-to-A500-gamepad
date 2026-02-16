@@ -1,0 +1,28 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100pf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,155.45,-94.95,0.0,bottom
+C2,47uf,CP_Radial_D5.0mm_P2.00mm,171.044888,-92.35,0.0,top
+C3,1000pf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,166.2825,-89.45,0.0,bottom
+C4,0.1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,155.45,-99.85,0.0,bottom
+C5,0.1uf,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,169.6175,-99.95,180.0,bottom
+FB1,FerriteBead_Small,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,166.2825,-90.75,0.0,bottom
+J1,Conn_01x09_Pin,PinHeader_1x09_P1.27mm_Vertical,161.83,-87.65,90.0,top
+R1,220,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,165.65,-102.95,0.0,bottom
+R10,1k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,161.9525,-102.95,180.0,bottom
+R11,10k,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,155.45,-96.45,0.0,bottom
+R15,100,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,144.2525,-102.95,180.0,bottom
+RP1,10k,R_Array_Concave_4x0402,148.05,-94.95,180.0,bottom
+RP2,10k,R_Array_Concave_4x0402,148.0,-99.9,0.0,bottom
+SW1,UP,Button contact 8mm,99.8,-88.413884,-90.0,top
+SW10,PTS645Vx39-2LFS,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,118.668799,-89.254315,315.0,bottom
+SW11,MIDDLE BUTTON,Button contact 8mm,131.85,-109.177767,-90.0,top
+SW12,MIDDLE BUTTON,Button contact 8mm,162.75,-109.163058,90.0,top
+SW2,DOWN,Button contact 8mm,99.8,-105.913884,-90.0,top
+SW3,LEFT,Button contact 8mm,90.85,-97.163884,-90.0,top
+SW4,RIGHT,Button contact 8mm,108.65,-97.136116,90.0,top
+SW5,RIGHT BUTTON,Button contact 8mm,204.775,-96.788884,-90.0,top
+SW6,FIRE BUTTON,Button contact 8mm,193.275,-108.136116,90.0,top
+SW7,D BUTTON,Button contact 8mm,193.3,-85.386116,90.0,top
+SW8,C BUTTON,Button contact 8mm,181.925,-96.761116,90.0,top
+SW9,PTS645Vx39-2LFS,SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,173.827665,-89.25078,45.0,bottom
+U1,74LS165,SOIC-16_3.9x9.9mm_P1.27mm,148.0,-97.425,180.0,top
+U2,74LS125,SOIC-14_3.9x8.7mm_P1.27mm,162.56,-97.45,180.0,top

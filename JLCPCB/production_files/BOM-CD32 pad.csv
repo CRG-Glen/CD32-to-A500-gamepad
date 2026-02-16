@@ -1,0 +1,25 @@
+Comment,Designator,Footprint,LCSC,Quantity
+0.1uf,"C4,C5",C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C307331,2
+100,R15,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25076,1
+1000pf,C3,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C1523,1
+100pf,C1,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C1546,1
+10k,R11,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25744,1
+10k,"RP1,RP2",R_Array_Concave_4x0402,C414600,2
+1k,R10,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C11702,1
+220,R1,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C25091,1
+74LS125,U2,SOIC-14_3.9x8.7mm_P1.27mm,C7734,1
+74LS165,U1,SOIC-16_3.9x9.9mm_P1.27mm,C7742,1
+FerriteBead_Small,FB1,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,C32472,1
+PTS645Vx39-2LFS,"SW10,SW9",SW_Tactile_SPST_Angled_PTS645Vx39-2LFS,C221887,2
+C BUTTON,SW8,Button contact 8mm,,1
+Conn_01x09_Pin,J1,PinHeader_1x09_P1.27mm_Vertical,,1
+MIDDLE BUTTON,SW12,Button contact 8mm,,1
+UP,SW1,Button contact 8mm,,1
+DOWN,SW2,Button contact 8mm,,1
+D BUTTON,SW7,Button contact 8mm,,1
+LEFT,SW3,Button contact 8mm,,1
+RIGHT,SW4,Button contact 8mm,,1
+MIDDLE BUTTON,SW11,Button contact 8mm,,1
+FIRE BUTTON,SW6,Button contact 8mm,,1
+47uf,C2,CP_Radial_D5.0mm_P2.00mm,,1
+RIGHT BUTTON,SW5,Button contact 8mm,,1
