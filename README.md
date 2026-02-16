@@ -14,7 +14,7 @@ YouTube video on the design, assembly and testing of this project can be viewed 
 
 Within the JLCPCB folder you will find Gerbers along with a BOM and CPL files suited to LSSC components.
 
-I recommend having the board produced with the EINT finish and get JLC to do all SMD work as its 0402 and very fiddly.
+I recommend having the board produced with the EINT finish and get JLC (or equal) to do all SMD work as its 0402 and very fiddly.
 
 You must fit the through hole capacitor yourself (47uF 2mm pin spacing 5mm diameter) as it needs to be folded over onto the PCB.
 
@@ -27,37 +27,24 @@ on the PCB correspond to pins 1-9  on the DB9.  This is at 1.27mm pitch so be ca
 
 ## Bill of Materials
 
-U1  - 74LS165        - SOIC16
-
-U2  - 74LS125        - SOIC14
-
-R1  - 220ohm 1%      - 0402
-
-R10 - 10k ohm 1%     - 0402
-
-R11 - 10k ohm 1%     - 0402
-
-R15 - 100ohm 1%      - 0402
-
-RP1 - 10k 1%         - 4x0402
-
-RP2 - 10k 1%         - 4x0402
-
-C1  - 100pF          - 0402 ceramic
-
-C2  - 47uF           - 2mm lead spacing 5mm diameter (remember to fold this over)
-
-C3  - 1000pF         - 0402 ceramic
-
-C4  - 0.1uF          - 0402 ceramic
-
-C5  - 0.1uF          - 0402 ceramic
-
-FB1 - 1kohm @ 100MHz - 0402
-
-SW9 - PTS645Vx39-2LFS- Tactile SPST Angled Switch (or take this off the old PCB)
-
-SW10- PTS645Vx39-2LFS- Tactile SPST Angled Switch (or take this off the old PCB)
+| Designation | Value | Type |
+| --- | --- | --- |
+| U1 | 74LS165 | SOIC16 |
+| U2 | 74LS125 | SOIC14 |
+| R1 | 220ohm 1% | 0402 |
+| R10 | 10k ohm 1% | 0402 |
+| R11 | 10k ohm 1% | 0402 |
+| R15 | 100ohm 1% | 0402 |
+| RP1 | 10k 1% | 4x0402 |
+| RP2 | 10k 1% | 4x0402 |
+| C1 | 100pF | 0402 ceramic |
+| C2 | 47uF | 2mm lead spacing 5mm diameter *remember to fold this over* |
+| C3 | 1000pF | 0402 ceramic |
+| C4 | 0.1uF | 0402 ceramic |
+| C5 | 0.1uF | 0402 ceramic |
+| FB1 | 1kohm @ 100MHz | 0402 |
+| SW9 | PTS645Vx39-2LFS | Tactile SPST Angled Switch *or take this off the old PCB* |
+| SW10 | PTS645Vx39-2LFS | Tactile SPST Angled Switch *or take this off the old PCB* |
 
 
 
