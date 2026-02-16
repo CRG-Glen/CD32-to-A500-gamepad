@@ -1,6 +1,6 @@
 # CD32 to The A500 Gamepad
 
-![PCB](Images/board3d.png?raw=True)
+![PCB](/Images/Board3d.png)
 
 This is a replacement PCB for The A500 gamepad making it a true CD32 pad.
 
