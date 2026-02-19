@@ -32,7 +32,7 @@ on the PCB correspond to pins 1-9  on the DB9.  This is at 1.27mm pitch so be ca
 | U1 | 74LS165 | SOIC16 |
 | U2 | 74LS125 | SOIC14 |
 | R1 | 220ohm 1% | 0402 |
-| R10 | 10k ohm 1% | 0402 |
+| R10 | 1k ohm 1% | 0402 |
 | R11 | 10k ohm 1% | 0402 |
 | R15 | 100ohm 1% | 0402 |
 | RP1 | 10k 1% | 4x0402 |
